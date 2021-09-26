@@ -21,4 +21,4 @@ This node does not process input payload.
 
 # Output
 
-Two Output, True if the connection has been successfully established. False if problems were encountered.
+Here is two option of output, True if the connection has been successfully established. False if problems were encountered.
